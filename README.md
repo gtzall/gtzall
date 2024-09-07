@@ -1,4 +1,4 @@
-# Hello word!
+# Hello world!
 
 I'm focused on
 <!-- Skills: Programming Languages -->
