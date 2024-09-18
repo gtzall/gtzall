@@ -17,5 +17,5 @@ I'm focused on
  
  <!-- GIF -->
 <p align="left">
-  <img align="center" src=https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif?cid=790b7611o68ada97u18gtglytutd28ph4ikxxhd95ez2p0kp&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="Imagem">
+  <img align="center" src=https://media.giphy.com/media/sNUWF7fAUP2q4/giphy.gif?cid=ecf05e477cj65h4xd5f5bor6394sosk1ig5bo5anr2jloutr&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="Imagem">
 </p>
