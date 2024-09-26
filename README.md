@@ -4,7 +4,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtzall&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
-I'm focused on
+
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -24,6 +24,4 @@ I'm focused on
   <img align="center" src=https://media.giphy.com/media/AbdOeU9MYPIoo/giphy.gif?cid=ecf05e47hacju4q51hswuugl5624cbidvwy7pck1ljipb37n&ep=v1_gifs_search&rid=giphy.gif&ct=g alt="Imagem">
 </p>
 
-</div>
 
-![Snake animation](https://github.com/gtzall/gtzall/blob/output/github-contribution-grid-snake.svg)
