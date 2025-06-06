@@ -19,7 +19,6 @@
   <img src="https://media.giphy.com/media/AbdOeU9MYPIoo/giphy.gif" width="400" alt="3D Graphs"/>
 </p>
 
-### 💻 Linguagens
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git" />
 </p>
