@@ -9,15 +9,15 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtzall&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtzall&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
 
 ## 💻 Most Used Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtzall&layout=donut&theme=tokyonight)
 
 ---
 
@@ -30,26 +30,12 @@
 
 ---
 
-name: Generate snake animation
+## 🐍 Contribution Snake
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    
 ---
 
 ## 📊 3D Graphs and Extras
@@ -64,3 +50,4 @@ jobs:
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <!-- Don't forget to replace 'seunome' with your actual GitHub username -->
+
