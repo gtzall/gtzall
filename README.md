@@ -15,22 +15,17 @@
 
 ---
 
+## 💻 Most Used Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=donut&theme=tokyonight)
+
+---
+
 ## 🧠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### 🛠️ Tools & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git" />
 </p>
 
 ---
@@ -54,3 +49,4 @@
 ## 🧩 Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+<!-- Don't forget to replace 'seunome' with your actual GitHub username -->
