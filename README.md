@@ -30,12 +30,26 @@
 
 ---
 
-## 🐍 Contribution Snake
+name: Generate snake animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
+  workflow_dispatch:
+
+  push:
+    branches:
+    - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    
 ---
 
 ## 📊 3D Graphs and Extras
