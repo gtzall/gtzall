@@ -21,7 +21,9 @@
 
 ---
 
-## 🧠 Tech Stack
+<p align="center">
+  <img src="https://media.giphy.com/media/AbdOeU9MYPIoo/giphy.gif" width="400" alt="3D Graphs"/>
+</p>
 
 ### 💻 Languages & Tools
 <p>
@@ -37,17 +39,3 @@
 </p>
 
 ---
-
-## 📊 3D Graphs and Extras
-
-<p align="center">
-  <img src="https://media.giphy.com/media/AbdOeU9MYPIoo/giphy.gif" width="400" alt="3D Graphs"/>
-</p>
-
----
-
-## 🧩 Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-<!-- Don't forget to replace 'seunome' with your actual GitHub username -->
-
