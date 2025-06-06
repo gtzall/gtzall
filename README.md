@@ -15,12 +15,6 @@
 
 ---
 
-## 💻 tecnologias mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtzall&layout=donut&theme=tokyonight)
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/AbdOeU9MYPIoo/giphy.gif" width="400" alt="3D Graphs"/>
 </p>
