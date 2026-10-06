@@ -1,0 +1,29 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" stroke="#30363D" stroke-width="2"/>
+  <path d="M0 54H1200" stroke="#30363D"/>
+  <circle cx="31" cy="27" r="6" fill="#F0C674"/>
+  <circle cx="53" cy="27" r="6" fill="#8CC084"/>
+  <circle cx="75" cy="27" r="6" fill="#6CB6FF"/>
+  <text x="105" y="32" fill="#8B949E" font-family="monospace" font-size="14">gtzall / profile</text>
+  <text x="64" y="112" fill="#8CC084" font-family="monospace" font-size="20">$ whoami</text>
+  <text x="64" y="151" fill="#F0F6FC" font-family="monospace" font-size="34" font-weight="700">GUSTAVO ALMEIDA</text>
+  <text x="66" y="183" fill="#8B949E" font-family="monospace" font-size="16">web developer · interface builder · always learning</text>
+  <text x="66" y="232" fill="#6CB6FF" font-family="monospace" font-size="16">stack:</text>
+  <text x="136" y="232" fill="#F0C674" font-family="monospace" font-size="16">javascript</text>
+  <text x="250" y="232" fill="#8B949E" font-family="monospace" font-size="16">/</text>
+  <text x="272" y="232" fill="#F0C674" font-family="monospace" font-size="16">typescript</text>
+  <text x="387" y="232" fill="#8B949E" font-family="monospace" font-size="16">/</text>
+  <text x="409" y="232" fill="#F0C674" font-family="monospace" font-size="16">react</text>
+  <text x="481" y="232" fill="#8B949E" font-family="monospace" font-size="16">/</text>
+  <text x="503" y="232" fill="#F0C674" font-family="monospace" font-size="16">node</text>
+  <text x="573" y="232" fill="#8B949E" font-family="monospace" font-size="16">/</text>
+  <text x="595" y="232" fill="#F0C674" font-family="monospace" font-size="16">git</text>
+  <rect x="66" y="258" width="10" height="18" fill="#8CC084"/>
+  <text x="88" y="273" fill="#8B949E" font-family="monospace" font-size="13">status: online</text>
+  <path d="M1050 112L1100 162L1050 212" stroke="#30363D" stroke-width="3"/>
+  <path d="M1100 162H1160" stroke="#F0C674" stroke-width="3"/>
+  <circle cx="1050" cy="112" r="7" fill="#6CB6FF"/>
+  <circle cx="1160" cy="162" r="7" fill="#8CC084"/>
+  <circle cx="1050" cy="212" r="7" fill="#F0C674"/>
+</svg>
