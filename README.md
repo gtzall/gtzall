@@ -58,8 +58,7 @@
 
 
 <h3><code>+ STACK</code></h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Node.js, VS Code and Git" /></p>
-<table><tr><td><strong>INTERFACE</strong><br><sub>JavaScript · TypeScript<br>HTML5 · CSS3 · React</sub></td><td><strong>RUNTIME</strong><br><sub>Node.js</sub></td><td><strong>TOOLS</strong><br><sub>VS Code · Git · GitHub</sub></td><td><strong>ALWAYS</strong><br><sub>learning...</sub></td></tr></table>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Node.js, VS Code and Git" /></p><table><tr><td><strong>INTERFACE</strong><br><sub>JavaScript · TypeScript<br>HTML5 · CSS3 · React</sub></td><td><strong>RUNTIME</strong><br><sub>Node.js</sub></td><td><strong>TOOLS</strong><br><sub>VS Code · Git · GitHub</sub></td><td><strong>ALWAYS</strong><br><sub>learning...</sub></td></tr></table>
 
 
 
