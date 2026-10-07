@@ -9,11 +9,8 @@
 
 
 <table><tr><td colspan="2"><strong><code>$ whoami</code></strong></td></tr><tr><td width="72%" valign="top"><pre><code>&gt; Gustavo Almeida
-&gt; Desenvolvedor web brasileiro
-&gt; Explorando ideias através de código
-&gt; Transformando interfaces em experiências
-&gt;
-&gt; foco: front-end · React · TypeScript</code></pre></td><td valign="top"><pre><code>STATUS
+&gt; Desenvolvedor brasileiro
+&gt; foco: front-end · React · TypeScript · Fullstack</code></pre></td><td valign="top"><pre><code>STATUS
 
 
 
@@ -24,7 +21,7 @@
 
 [ online ]
 [ building ]
-[ curious ]
+
 
 
 
@@ -41,9 +38,7 @@
 
 
 
-
-<h3><code>+ CURRENT PROCESS</code></h3>
-<table><tr><td width="52%" valign="top"><p><code>01</code> <strong>Aprendendo e construindo</strong></p><p>☑ criando interfaces<br>☐ evoluindo meu portfólio<br>☐ estudando sistemas e redes<br>☐ publicando coisas boas</p><p><code>&gt; ideias / código / realidade_</code></p></td><td valign="middle"><img src="./bill-cipher-panel.png" alt="Visual artwork used in the terminal panel" width="100%" /></td></tr></table>
+<td valign="middle"><img src="./bill-cipher-panel.png" alt="Visual artwork used in the terminal panel" width="100%" /></td></tr></table>
 
 
 
@@ -53,7 +48,7 @@
 
 
 <h3><code>$ SELECTED WORK</code> <sub>→ ver repositórios</sub></h3>
-<table><tr><td width="33%" valign="top"><a href="https://github.com/gtzall/web-portfolio"><strong>web-portfolio</strong></a><br><sub>Meu portfólio pessoal</sub><br><br><code>JavaScript</code></td><td width="33%" valign="top"><a href="https://github.com/gtzall/calendario"><strong>calendario</strong></a><br><sub>Experimento web</sub><br><br><code>JavaScript</code></td><td width="33%" valign="top"><a href="https://github.com/gtzall/tcc-v4"><strong>tcc-v4</strong></a><br><sub>Projeto em construção</sub><br><br><code>TypeScript</code></td></tr></table>
+<table><tr><td width="33%" valign="top"><a href="https://github.com/gtzall/web-portfolio"><strong>web-portfolio</strong></a><br><sub>Meu portfólio pessoal</sub><br><br><code>JavaScript</code></td><td width="33%" valign="top"><a href="https://github.com/gtzall/projeto-brecho.git"><strong>brecho</strong></a><br><sub>brecho web 100% funcional</sub><br><br><code>JavaScript</code></td><td width="33%" valign="top"><a href="https://github.com/gtzall/tcc-QuizMaster-beta1.git"><strong>beta do tcc</strong></a><br><sub>local de estudos gamificado</sub><br><br><code>TypeScript</code></td></tr></table>
 
 
 
@@ -74,7 +69,7 @@
 
 
 <h3><code>+ ONLINE</code></h3>
-<table><tr><td><a href="https://github.com/gtzall"><strong>◉ GitHub</strong></a><br><sub>@gtzall</sub></td><td><a href="https://web-portfolio-indol-nine.vercel.app/"><strong>◉ Portfólio</strong></a><br><sub>web-portfolio-indol-nine.vercel.app</sub></td><td><strong>◉ Contact</strong><br><sub>aberto a boas ideias</sub></td></tr></table>
+<table><tr><td><a href="https://github.com/gtzall"><strong>◉ GitHub</strong></a><br><sub>@gtzall</sub></td><td><a href="https://web-portfolio-indol-nine.vercel.app/"><strong>◉ Portfólio</strong></a><br><sub>web-portfolio-indol-nine.vercel.app</sub></td><td><strong>◉ Contact</strong><br><sub>www.linkedin.com/in/gustavo-almeida-rodrigues</sub></td></tr></table>
 
 
 
