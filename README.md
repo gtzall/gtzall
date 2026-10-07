@@ -1,18 +1,31 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8cc084&height=130&section=header&text=GUSTAVO%20ALMEIDA&fontColor=f0c674&fontSize=32&fontAlignY=38&animation=twinkling" alt="Animated header" width="100%" /></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=800&color=8CC084&center=true&vCenter=true&width=700&lines=web+developer;building+interfaces+with+personality;JavaScript+%7C+TypeScript+%7C+React;less+noise%2C+more+intention" alt="Animated typing" /></p>
-<p align="center"><a href="https://github.com/gtzall"><img src="https://img.shields.io/badge/GITHUB-gtzall-0d1117?style=for-the-badge&logo=github&logoColor=f0c674" /></a> <a href="https://web-portfolio-indol-nine.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-0d1117?style=for-the-badge&logo=vercel&logoColor=8cc084" /></a></p>
-<p align="center"><code>less noise · more intention · ship something real</code></p>
-<table><tr><td width="58%" valign="top"><h3><code>~/about</code></h3><p>Sou <strong>Gustavo Almeida</strong>, desenvolvedor web focado em interfaces com personalidade e experiências para a internet.</p><code>he/him</code> · <code>Brazil</code> · <code>always learning</code></td><td valign="top"><h3><code>~/status</code></h3><pre><code>system: online
-focus: front-end
-mode: building
-coffee: required</code></pre></td></tr></table>
-<hr><h3><code>01 / toolbelt</code></h3><p><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git&theme=dark" alt="Technology stack" /></p><table><tr><td><strong>INTERFACE</strong><br><sub>JavaScript · TypeScript<br>HTML5 · CSS3 · React</sub></td><td><strong>RUNTIME</strong><br><sub>Node.js</sub></td><td><strong>WORKFLOW</strong><br><sub>VS Code · Git · GitHub</sub></td></tr></table>
-<h3><code>02 / selected repositories</code></h3><table><tr><td><a href="https://github.com/gtzall/web-portfolio"><strong>web-portfolio</strong></a><br><sub>meu espaço na web · JavaScript</sub></td><td><a href="https://github.com/gtzall/calendario"><strong>calendario</strong></a><br><sub>experimento web · JavaScript</sub></td></tr><tr><td><a href="https://github.com/gtzall/tcc-v4"><strong>tcc-v4</strong></a><br><sub>projeto em TypeScript</sub></td><td><a href="https://github.com/gtzall/carta-online"><strong>carta-online</strong></a><br><sub>interface experimental</sub></td></tr></table>
-<h3><code>03 / activity</code></h3><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gtzall&bg_color=0d1117&color=f0c674&line=8cc084&point=f0c674&area=true&hide_border=true" alt="Activity graph" width="100%" /></p>
-<h3><code>04 / telemetry</code></h3><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gtzall&show_icons=true&theme=transparent&title_color=8cc084&text_color=f0c674&icon_color=8cc084&hide_border=true&include_all_commits=true" alt="GitHub stats" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtzall&layout=compact&theme=transparent&title_color=8cc084&text_color=f0c674&hide_border=true" alt="Top languages" width="39%" /></p><p align="center"><img src="https://streak-stats.demolab.com?user=gtzall&theme=dark&hide_border=true&background=0d1117&ring=8cc084&fire=f0c674&currStreakLabel=8cc084" alt="Contribution streak" width="70%" /></p>
-<h3><code>05 / current process</code></h3><pre><code>gtzall@github:~$ git status
-On branch main
-Changes not staged for commit:
-  modified: interfaces · ideias · próximos projetos
-nothing to commit — ainda.</code></pre><blockquote>Construindo experiências web simples, rápidas e com personalidade.</blockquote>
-<h3><code>06 / contact</code></h3><p><a href="https://web-portfolio-indol-nine.vercel.app/"><img src="https://img.shields.io/badge/WEB_PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=f0c674" /></a> <a href="https://github.com/gtzall"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=f0c674" /></a></p><p align="center"><img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" /></p><p align="center"><sub>built with curiosity · shipped with git · maintained by gtzall</sub></p>
+<p align="center"><img src="./terminal-banner.svg" alt="gtzall terminal interface" width="100%" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=8CC084&center=true&vCenter=true&width=650&lines=%24+whoami;Gustavo+Almeida+%2F+web+developer;ideas+%E2%86%92+code+%E2%86%92+real+experiences" alt="Terminal typing animation" /></p>
+
+<table><tr><td colspan="2"><strong><code>$ whoami</code></strong></td></tr><tr><td width="72%" valign="top"><pre><code>&gt; Gustavo Almeida
+&gt; Desenvolvedor web brasileiro
+&gt; Explorando ideias através de código
+&gt; Transformando interfaces em experiências
+&gt;
+&gt; foco: front-end · React · TypeScript</code></pre></td><td valign="top"><pre><code>STATUS
+
+[ online ]
+[ building ]
+[ curious ]
+
+&gt; stay curious_</code></pre></td></tr></table>
+
+<h3><code>+ CURRENT PROCESS</code></h3>
+<table><tr><td width="52%" valign="top"><p><code>01</code> <strong>Aprendendo e construindo</strong></p><p>☑ criando interfaces<br>☐ evoluindo meu portfólio<br>☐ estudando sistemas e redes<br>☐ publicando coisas boas</p><p><code>&gt; ideias / código / realidade_</code></p></td><td valign="middle"><img src="./pasted_file_fd938j_image.png" alt="Visual artwork used in the terminal panel" width="100%" /></td></tr></table>
+
+<h3><code>$ SELECTED WORK</code> <sub>→ ver repositórios</sub></h3>
+<table><tr><td width="33%" valign="top"><a href="https://github.com/gtzall/web-portfolio"><strong>web-portfolio</strong></a><br><sub>Meu portfólio pessoal</sub><br><br><code>JavaScript</code></td><td width="33%" valign="top"><a href="https://github.com/gtzall/calendario"><strong>calendario</strong></a><br><sub>Experimento web</sub><br><br><code>JavaScript</code></td><td width="33%" valign="top"><a href="https://github.com/gtzall/tcc-v4"><strong>tcc-v4</strong></a><br><sub>Projeto em construção</sub><br><br><code>TypeScript</code></td></tr></table>
+
+<h3><code>+ STACK</code></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Node.js, VS Code and Git" /></p>
+<table><tr><td><strong>INTERFACE</strong><br><sub>JavaScript · TypeScript<br>HTML5 · CSS3 · React</sub></td><td><strong>RUNTIME</strong><br><sub>Node.js</sub></td><td><strong>TOOLS</strong><br><sub>VS Code · Git · GitHub</sub></td><td><strong>ALWAYS</strong><br><sub>learning...</sub></td></tr></table>
+
+<h3><code>+ ONLINE</code></h3>
+<table><tr><td><a href="https://github.com/gtzall"><strong>◉ GitHub</strong></a><br><sub>@gtzall</sub></td><td><a href="https://web-portfolio-indol-nine.vercel.app/"><strong>◉ Portfólio</strong></a><br><sub>web-portfolio-indol-nine.vercel.app</sub></td><td><strong>◉ Contact</strong><br><sub>aberto a boas ideias</sub></td></tr></table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" /></p>
+<p align="center"><code>&lt;/&gt; obrigado por visitar · construindo um futuro interessante...</code></p>
