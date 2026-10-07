@@ -38,7 +38,7 @@
 
 
 
-<td valign="middle"><img src="./bill-cipher-panel.png" alt="Visual artwork used in the terminal panel" width="100%" /></td></tr></table>
+<td valign="middle"><img src="./bill-cipher-panel.png" alt="Visual artwork used in the terminal panel" width="30%" /></td></tr></table>
 
 
 
