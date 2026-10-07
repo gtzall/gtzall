@@ -8,7 +8,7 @@
 
 
 
-<table><tr><td colspan="2"><strong><code>$ whoami</code></strong></td></tr><tr><td width="72%" valign="top"><pre><code>&gt; Gustavo Almeida
+<table><tr><td colspan="2"><strong><code>$ quem sou eu</code></strong></td></tr><tr><td width="72%" valign="top"><pre><code>&gt; Gustavo Almeida
 &gt; Desenvolvedor brasileiro
 &gt; foco: front-end · React · TypeScript · Fullstack</code></pre></td><td valign="top"><pre><code>STATUS
 
