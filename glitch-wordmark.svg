@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">GTZALL glitch wordmark</title>
+  <desc id="desc">Animated green terminal-style wordmark</desc>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 0H8" stroke="#8CC084" stroke-opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#080b10"/>
+  <rect x="2" y="2" width="1196" height="296" rx="16" fill="url(#scan)" stroke="#263b2d" stroke-width="3"/>
+  <g opacity=".65" stroke="#8CC084" fill="none">
+    <path d="M54 78h30m-15-15v30M1080 70h34m-17-17v34M1010 224h24m-12-12v24"/>
+    <path d="M95 230l12-12m-12 0l12 12M1120 205l12-12m-12 0l12 12"/>
+  </g>
+  <g filter="url(#glow)" font-family="monospace" font-weight="900" text-anchor="middle">
+    <text x="600" y="176" font-size="142" letter-spacing="14" fill="#8CC084">GTZALL</text>
+    <text x="600" y="176" font-size="142" letter-spacing="14" fill="none" stroke="#d6f5c9" stroke-width="1" opacity=".7">GTZALL</text>
+  </g>
+  <g font-family="monospace" font-size="15" fill="#F0C674">
+    <text x="76" y="260">// interface builder</text>
+    <text x="940" y="260">status: online_</text>
+  </g>
+  <g stroke="#8CC084" stroke-width="2" opacity=".5">
+    <path d="M70 42h130M1000 42h130M70 274h130M1000 274h130"/>
+  </g>
+  <rect x="0" y="0" width="1200" height="4" fill="#f0c674" opacity=".5">
+    <animate attributeName="y" values="0;296;0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
