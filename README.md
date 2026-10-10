@@ -26,9 +26,9 @@
 <table>
 <tr>
 <td width="62%" valign="top">
-<h3><code>anotações</code></h3>
+<h3><code></code></h3>
 <p>Gosto de transformar ideias em coisas que funcionam — páginas, experiências e pequenos experimentos que tenham alguma intenção por trás.</p>
-<p><code>01</code> interfaces que contam alguma coisa<br><code>02</code> código simples de entender<br><code>03</code> curiosidade antes de tendência</p>
+<p><code>01</code> interfaces que contam alguma coisa<br><code>02</code> código simples de entender<br><code>03</code> irei me tornar um programador full stack. </p>
 </td>
 <td width="38%" valign="middle" align="center">
 <img src="./bill-cipher-panel.png" alt="Arte em preto e branco do Bill Cipher" width="92%" />
