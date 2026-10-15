@@ -1,51 +1,51 @@
-<p align="center"><img src="./editorial-wordmark.svg" alt="GTZALL editorial terminal wordmark" width="100%" /></p>
+<p align="center">
+  <img src="./gtzall-hero-monochrome.png" alt="Paisagem monocromática de montanhas e lago" width="100%" />
+</p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1000&color=8CC084&center=true&vCenter=true&width=680&lines=%24+quem+sou+eu;Gustavo+Almeida+%2F+desenvolvedor+web;interfaces+%E2%86%92+c%C3%B3digo+%E2%86%92+experi%C3%AAncias" alt="Terminal typing animation" /></p>
+<h1 align="center"><code>Welcome to gtzall's GitHub</code></h1>
+<p align="center"><code>&lt;/&gt;</code></p>
 
-<table>
-<tr><td colspan="2"><strong><code>$ quem sou eu</code></strong></td></tr>
-<tr>
-<td width="70%" valign="top">
-<pre><code>&gt; Gustavo Almeida
-&gt; desenvolvedor web brasileiro
-&gt; construindo interfaces com personalidade
-&gt; foco: front-end · React · TypeScript</code></pre>
-</td>
-<td valign="top"><pre><code>agora
+<p align="center">
+  <a href="https://github.com/gtzall"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-almeida-rodrigues"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://web-portfolio-indol-nine.vercel.app/"><img src="https://img.shields.io/badge/PORTFÓLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfólio" /></a>
+</p>
 
-[ aprendendo ]
-[ construindo ]
-[ testando ]
-
-&gt; sem pressa_</code></pre></td>
-</tr>
-</table>
-
-<br>
+<h3 align="center"><code>◉ About me</code></h3>
 
 <table>
 <tr>
-<td width="62%" valign="top">
-<h3><code></code></h3>
-<p>Gosto de transformar ideias em coisas que funcionam — páginas, experiências e pequenos experimentos que tenham alguma intenção por trás.</p>
-<p><code>01</code> interfaces que contam alguma coisa<br><code>02</code> código simples de entender<br><code>03</code> irei me tornar um programador full stack. </p>
+<td width="72%" valign="middle" align="center">
+<p>Olá! Eu sou <strong>Gustavo Almeida</strong>, desenvolvedor web brasileiro.</p>
+<p>Construo interfaces com intenção, estudo novas ferramentas e transformo ideias em experiências digitais.</p>
+<p><code>Front-end · React · TypeScript · JavaScript</code></p>
 </td>
-<td width="38%" valign="middle" align="center">
-<img src="./bill-cipher-panel.png" alt="Arte em preto e branco do Bill Cipher" width="92%" />
-</td>
+<td width="28%"><img src="./gtzall-side-illustration.png" alt="Astronauta monocromático flutuando no espaço" width="100%" /></td>
 </tr>
 </table>
 
-<h3><code>ferramentas que uso</code></h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,vscode,git&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Node.js, VS Code e Git" /></p>
+<h3 align="center"><code>◉ Technologies</code></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-050709?style=flat-square&logo=javascript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-050709?style=flat-square&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-050709?style=flat-square&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-050709?style=flat-square&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-050709?style=flat-square&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-050709?style=flat-square&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-050709?style=flat-square&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS_Code-050709?style=flat-square&logo=visualstudiocode&logoColor=fff" />
+</p>
+
+<h3 align="center"><code>⌁ Statistics</code></h3>
 
 <table>
-<tr><td><strong>INTERFACE</strong><br><sub>JavaScript · TypeScript<br>HTML5 · CSS3 · React</sub></td><td><strong>AMBIENTE</strong><br><sub>Node.js<br>VS Code · Git</sub></td><td><strong>JEITO DE TRABALHAR</strong><br><sub>curioso<br>visual · direto</sub></td></tr>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=gtzall&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff" alt="GitHub statistics" width="100%" /></td>
+<td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gtzall&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak statistics" width="100%" /></td>
+</tr>
 </table>
 
-<h3><code>onde me encontrar</code></h3>
-<p><a href="https://github.com/gtzall"><strong>GitHub</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gustavo-almeida-rodrigues"><strong>LinkedIn</strong></a> &nbsp;·&nbsp; <a href="https://web-portfolio-indol-nine.vercel.app/"><strong>Portfólio</strong></a></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=gtzall&bg_color=0d1117&color=c9d1d9&line=ffffff&goint=ffffff&area=false&hide_border=true" alt="GitHub contribution graph" width="100%" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" /></p>
-
-<p align="center"><code>&lt;/&gt; feito por Gustavo · 2026</code></p>
+<p align="center"><code>built with curiosity · gtzall · 2026</code></p>
