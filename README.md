@@ -2,9 +2,6 @@
   <img src="./gtzall-hero-monochrome.png" alt="Paisagem monocromática de montanhas e lago" width="100%" />
 </p>
 
-<h1 align="center"><code>Welcome to gtzall's GitHub</code></h1>
-<p align="center"><code>&lt;/&gt;</code></p>
-
 <p align="center">
   <a href="https://github.com/gtzall"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/gustavo-almeida-rodrigues"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
