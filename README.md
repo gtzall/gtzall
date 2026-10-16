@@ -3,6 +3,8 @@
 </p>
 
 
+
+
 <p align="center">
   <a href="https://github.com/gtzall"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/gustavo-almeida-rodrigues"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
@@ -10,7 +12,11 @@
 </p>
 
 
+
+
 <h3 align="center"><code>◉ About me</code></h3>
+
+
 
 
 <table>
@@ -25,7 +31,11 @@
 </table>
 
 
+
+
 <h3 align="center"><code>◉ Technologies</code></h3>
+
+
 
 
 <p align="center">
@@ -40,7 +50,11 @@
 </p>
 
 
+
+
 <h3 align="center"><code>⌁ Statistics</code></h3>
+
+
 
 
 <table>
@@ -51,9 +65,15 @@
 </table>
 
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtzall&theme=github_dark" alt="GitHub contribution graph" width="100%" /></p>
+
+
+<p align="center"><img src="./gtzall-contribution-graph.svg" alt="GitHub contribution graph" width="100%" /></p>
+
+
 
 
 <p align="center"><code>built with curiosity · gtzall · 2026</code></p>
 
+
  
+
